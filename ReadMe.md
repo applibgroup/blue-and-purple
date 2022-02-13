@@ -1,1 +1,1 @@
-###Only for fork purpose. Please update Readme of your own.
+This is submission by team blue and purple 
