@@ -41,6 +41,23 @@ body {
     font-family: cursive;
     position: absolute;
 }
+#genbot-el {
+    border: 2px solid;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 500px;
+    Width: 800px;
+    text-align: -webkit-auto;
+    color:aliceblue;
+    overflow:scroll;
+    word-wrap: break-word;
+
+}
+#instruct-el {
+    color: white;
+    list-style:none;
+}
+
 .chat-bar-collapsible {
     position: fixed;
     bottom: 0;
@@ -213,3 +230,4 @@ body {
         border-radius: 0px;
     }
 }
+

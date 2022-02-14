@@ -14,8 +14,19 @@
 <body>
 <!--RESET and GENERATE CODE BUTTON -->
 <button id="reset-el" onclick="reset()">RESET</button>
-<button id="gen-el" onclick="generate()">GENERATE CODE</button>
+<button id="gen-el" onclick="generateCode()">GENERATE CODE</button>
 <button id="bot-el" onclick="generate()">GENERATE BOT</button>
+<div id="genbot-el">
+    <p id="html-el"></p>
+    <p id="css-el"></p>
+    <p id="java-el"></p>
+</div>
+<!--Instruction-->
+<ul id="instruct-el">
+    <li>Enter the use of Chatbot</li>
+    <li>Generate the Chatbot</li>
+    <li>Generate Code</li>
+</ul>
 <!-- CHAT BAR BLOCK -->
 <div class="chat-bar-collapsible">
     <button id="chat-button" type="button" class="collapsible">Chat with us!
