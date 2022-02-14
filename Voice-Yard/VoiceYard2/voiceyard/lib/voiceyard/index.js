@@ -48,7 +48,7 @@ function generateFirstCode(){
 
     // first message
     function firstBotMessage() {
-        let firstMessage = `Welcome I am msk`
+        let firstMessage = 'Welcome I am msk'
         document.getElementById("botStarterMessage").innerHTML = '<p class="botText"><span>' + firstMessage + '</span></p>';
 
         let time = getTime();
@@ -143,7 +143,7 @@ function generateSecondCode() {
 
     // first message
     function firstBotMessage() {
-        let firstMessage = `Welcome I am msk`
+        let firstMessage = `Hello there!`
         document.getElementById("botStarterMessage").innerHTML = '<p class="botText"><span>' + firstMessage + '</span></p>';
 
         let time = getTime();
@@ -238,7 +238,7 @@ function generateThirdCode() {
 
     // first message
     function firstBotMessage() {
-        let firstMessage = `Welcome I am msk`
+        let firstMessage = `Hello there!`
         document.getElementById("botStarterMessage").innerHTML = '<p class="botText"><span>' + firstMessage + '</span></p>';
 
         let time = getTime();
@@ -336,7 +336,7 @@ function generateFourthCode() {
 
     // first message
     function firstBotMessage() {
-        let firstMessage = `Welcome I am msk`
+        let firstMessage = `Hello there!`
         document.getElementById("botStarterMessage").innerHTML = '<p class="botText"><span>' + firstMessage + '</span></p>';
 
         let time = getTime();
@@ -434,7 +434,7 @@ function generateFifthCode() {
 
     // first message
     function firstBotMessage() {
-        let firstMessage = `Welcome I am msk`
+        let firstMessage = `Hello there!`
         document.getElementById("botStarterMessage").innerHTML = '<p class="botText"><span>' + firstMessage + '</span></p>';
 
         let time = getTime();
